@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+.idea
+env.d
+db.sqlite3
+local_settings.py
+shh.sh
